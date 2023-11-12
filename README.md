@@ -1,2 +1,2 @@
 # blog2
-Este es un blog de viaje
+Este es un blog de viaje al interior
